@@ -13,8 +13,8 @@
           "version": "1.0.0",
           "deprecated": false,
           "category": "Arduino",
-          "url": "https://github.com/ptmotorsport/RA4M1-Custom/tree/main/PT-MoSpoCo.zip",
-          "archiveFileName": "PT-MoSpoCo.zip",
+          "url": "https://github.com/ptmotorsport/RA4M1-Custom/blob/main/RA4M1-Custom-main.zip",
+          "archiveFileName": "RA4M1-Custom-main.zip",
           "checksum": "8B5BD172AE229DBB9CDBA105CE7069AB1E580F0594FE78B9D8CA1231981A670A",
           "size": "9188463",
           "boards": [
