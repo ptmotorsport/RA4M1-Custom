@@ -1,0 +1,55 @@
+{
+  "packages": [
+    {
+      "name": "PT MoSpoCo",
+      "maintainer": "PT MoSpoCo",
+      "websiteUrl": "https://www.arduino.cc/",
+      "Url": "https://downloads.arduino.cc/packages/package_index.tar.bz2",
+      "email": "packages@arduino.cc",
+      "platforms": [
+        {
+          "name": "PT MoSpoCo MINIMA Boards",
+          "architecture": "renesas_uno",
+          "version": "1.0.0",
+          "deprecated": false,
+          "category": "Arduino",
+          "url": "https://github.com/ptmotorsport/RA4M1-Custom/blob/main/1.4.1.zip",
+          "archiveFileName": "1.4.1.zip",
+          "checksum": "SHA-256:2693D703C45FA7259621601A6C31591075B66D4DF6C5345ADEA8A2E6A1D70C5C",
+          "size": "20978702",
+          "boards": [
+	    {
+              "name": "RA4M1 PT MoSpoCo"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "arm-none-eabi-gcc",
+              "version": "7-2017q4"
+            },
+            {
+              "packager": "arduino",
+              "name": "bossac",
+              "version": "1.9.1-arduino5"
+            },
+            {
+              "packager": "arduino",
+              "name": "dfu-util",
+              "version": "0.11.0-arduino5"
+            },
+            {
+              "packager": "arduino",
+              "name": "openocd",
+              "version": "0.11.0-arduino2"
+            }
+          ],
+      "tools": [
+        {
+          "name": "arm-none-eabi-gcc",
+          "version": "7-2017q4",
+          "systems": [
+          ]
+        }
+  ]
+}
